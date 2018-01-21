@@ -1,0 +1,7 @@
+{
+  "name": "other",
+  "version": "0.0.2",
+  "dependencies": {
+    "left-pad": "1.0.0"
+  }
+}
